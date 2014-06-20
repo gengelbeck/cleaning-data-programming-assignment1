@@ -1,0 +1,75 @@
+Aggregate Measures 
+=================
+
+The features selected for this database were computed from the accelerometer and gyroscope 3-axial raw signals described in features_info.txt from Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
+
+The mean for each variable below for each subject (pid) and each activity (activity).
+
+The orginal values with their index in features.txt mapped to their mean in the mean_features dataset.
+
+1	tBodyAcc-mean()-X	mean.tBodyAcc.mean...X
+2	tBodyAcc-mean()-Y	mean.tBodyAcc.mean...Y
+3	tBodyAcc-mean()-Z	mean.tBodyAcc.mean...Z
+4	tBodyAcc-std()-X	mean.tBodyAcc.std...X
+5	tBodyAcc-std()-Y	mean.tBodyAcc.std...Y
+6	tBodyAcc-std()-Z	mean.tBodyAcc.std...Z
+41	tGravityAcc-mean()-X	mean.tGravityAcc.mean...X
+42	tGravityAcc-mean()-Y	mean.tGravityAcc.mean...Y
+43	tGravityAcc-mean()-Z	mean.tGravityAcc.mean...Z
+44	tGravityAcc-std()-X	mean.tGravityAcc.std...X
+45	tGravityAcc-std()-Y	mean.tGravityAcc.std...Y
+46	tGravityAcc-std()-Z	mean.tGravityAcc.std...Z
+81	tBodyAccJerk-mean()-X	mean.tBodyAccJerk.mean...X
+82	tBodyAccJerk-mean()-Y	mean.tBodyAccJerk.mean...Y
+83	tBodyAccJerk-mean()-Z	mean.tBodyAccJerk.mean...Z
+84	tBodyAccJerk-std()-X	mean.tBodyAccJerk.std...X
+85	tBodyAccJerk-std()-Y	mean.tBodyAccJerk.std...Y
+86	tBodyAccJerk-std()-Z	mean.tBodyAccJerk.std...Z
+121	tBodyGyro-mean()-X	mean.tBodyGyro.mean...X
+122	tBodyGyro-mean()-Y	mean.tBodyGyro.mean...Y
+123	tBodyGyro-mean()-Z	mean.tBodyGyro.mean...Z
+124	tBodyGyro-std()-X	mean.tBodyGyro.std...X
+125	tBodyGyro-std()-Y	mean.tBodyGyro.std...Y
+126	tBodyGyro-std()-Z	mean.tBodyGyro.std...Z
+161	tBodyGyroJerk-mean()-X	mean.tBodyGyroJerk.mean...X
+162	tBodyGyroJerk-mean()-Y	mean.tBodyGyroJerk.mean...Y
+163	tBodyGyroJerk-mean()-Z	mean.tBodyGyroJerk.mean...Z
+164	tBodyGyroJerk-std()-X	mean.tBodyGyroJerk.std...X
+165	tBodyGyroJerk-std()-Y	mean.tBodyGyroJerk.std...Y
+166	tBodyGyroJerk-std()-Z	mean.tBodyGyroJerk.std...Z
+201	tBodyAccMag-mean()	mean.tBodyAccMag.mean..
+202	tBodyAccMag-std()	mean.tBodyAccMag.std..
+214	tGravityAccMag-mean()	mean.tGravityAccMag.mean..
+215	tGravityAccMag-std()	mean.tGravityAccMag.std..
+227	tBodyAccJerkMag-mean()	mean.tBodyAccJerkMag.mean..
+228	tBodyAccJerkMag-std()	mean.tBodyAccJerkMag.std..
+240	tBodyGyroMag-mean()	mean.tBodyGyroMag.mean..
+241	tBodyGyroMag-std()	mean.tBodyGyroMag.std..
+253	tBodyGyroJerkMag-mean()	mean.tBodyGyroJerkMag.mean..
+254	tBodyGyroJerkMag-std()	mean.tBodyGyroJerkMag.std..
+266	fBodyAcc-mean()-X	mean.fBodyAcc.mean...X
+267	fBodyAcc-mean()-Y	mean.fBodyAcc.mean...Y
+268	fBodyAcc-mean()-Z	mean.fBodyAcc.mean...Z
+269	fBodyAcc-std()-X	mean.fBodyAcc.std...X
+270	fBodyAcc-std()-Y	mean.fBodyAcc.std...Y
+271	fBodyAcc-std()-Z	mean.fBodyAcc.std...Z
+345	fBodyAccJerk-mean()-X	mean.fBodyAccJerk.mean...X
+346	fBodyAccJerk-mean()-Y	mean.fBodyAccJerk.mean...Y
+347	fBodyAccJerk-mean()-Z	mean.fBodyAccJerk.mean...Z
+348	fBodyAccJerk-std()-X	mean.fBodyAccJerk.std...X
+349	fBodyAccJerk-std()-Y	mean.fBodyAccJerk.std...Y
+350	fBodyAccJerk-std()-Z	mean.fBodyAccJerk.std...Z
+424	fBodyGyro-mean()-X	mean.fBodyGyro.mean...X
+425	fBodyGyro-mean()-Y	mean.fBodyGyro.mean...Y
+426	fBodyGyro-mean()-Z	mean.fBodyGyro.mean...Z
+427	fBodyGyro-std()-X	mean.fBodyGyro.std...X
+428	fBodyGyro-std()-Y	mean.fBodyGyro.std...Y
+429	fBodyGyro-std()-Z	mean.fBodyGyro.std...Z
+503	fBodyAccMag-mean()	mean.fBodyAccMag.mean..
+504	fBodyAccMag-std()	mean.fBodyAccMag.std..
+516	fBodyBodyAccJerkMag-mean()	mean.fBodyBodyAccJerkMag.mean..
+517	fBodyBodyAccJerkMag-std()	mean.fBodyBodyAccJerkMag.std..
+529	fBodyBodyGyroMag-mean()	mean.fBodyBodyGyroMag.mean..
+530	fBodyBodyGyroMag-std()	mean.fBodyBodyGyroMag.std..
+542	fBodyBodyGyroJerkMag-mean()	mean.fBodyBodyGyroJerkMag.mean..
+543	fBodyBodyGyroJerkMag-std()	mean.fBodyBodyGy+A12:C70roJerkMag.std..
