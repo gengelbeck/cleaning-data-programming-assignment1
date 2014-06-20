@@ -22,7 +22,7 @@ This repository contains an R script named run_analysis.R that does the followin
 
 4. Labels the data set with descriptive variable names. 
 
-5. Produces an independent tidy data set with the mean of each variable for each activity and each subject. 
+5. Produces an independent tidy data set (har_activities_summary.txt) with the mean of each variable for each activity and each subject. 
 
 
 * <b>Dataset</b>:  [20Mb]
